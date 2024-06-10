@@ -1,5 +1,4 @@
 # Installation
----
 Clone this repository:
 ```bash
 git clone https://github.com/MirGer14/ObsidianPlanner
@@ -10,4 +9,3 @@ rm -rf readme-files README.md
 ```
 
 # Usage
----
